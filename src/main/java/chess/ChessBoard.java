@@ -1,7 +1,7 @@
 package chess;
 
 public class ChessBoard {
-    ChessPiece[][] board = new ChessPiece[8][8];
+    public ChessPiece[][] board = new ChessPiece[8][8];
     String nowPlayer;
 
     public ChessBoard(String nowPlayer) {
