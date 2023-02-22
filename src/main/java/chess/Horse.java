@@ -1,8 +1,5 @@
 package chess;
 
-import chess.ChessBoard;
-import chess.ChessPiece;
-
 public class Horse extends ChessPiece {
 
     public Horse(String color) {
